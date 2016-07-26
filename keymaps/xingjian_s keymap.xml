@@ -1,11 +1,23 @@
 <keymap version="1" name="xingjian's keymap" parent="Eclipse (Mac OS X)">
+  <action id="Arrangement.Rule.Edit" />
   <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
