@@ -1,5 +1,11 @@
 <keymap version="1" name="xingjian's keymap" parent="Eclipse (Mac OS X)">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
   <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
