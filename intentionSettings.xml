@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="C and C++/Split function into declaration and definition" />
+    <ignoreAction name="C and C++/Split into declaration and assignment" />
   </component>
 </application>
